@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clearFields"
+        android:title="Clear Fields" />
+    <item
+        android:id="@+id/Load_item"
+        android:title="Loads Saved Values" />
+    <item
+        android:id="@+id/showTotalBooks"
+        android:title="Total Books" />
+</menu>

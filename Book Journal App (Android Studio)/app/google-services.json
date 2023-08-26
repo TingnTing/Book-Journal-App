@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959049717427",
+    "firebase_url": "https://mobileproject-c4730-default-rtdb.firebaseio.com",
+    "project_id": "mobileproject-c4730",
+    "storage_bucket": "mobileproject-c4730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959049717427:android:14eaf7ca38de79601a42c6",
+        "android_client_info": {
+          "package_name": "com.example.fit3151_lab5trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959049717427-ha7s5plll55ki1tlhr3u7vg1016h1bqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJAvDr_EBVe85HKG0FJsh6SaYxK1XkJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959049717427-ha7s5plll55ki1tlhr3u7vg1016h1bqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

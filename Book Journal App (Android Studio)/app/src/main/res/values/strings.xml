@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FIT3151_Lab5Trial</string>
+    <string name="navigation_drawer_open">drawer now opened</string>
+    <string name="navigation_drawer_close">drawer now closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
